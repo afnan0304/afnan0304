@@ -1,17 +1,17 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&weight=900&size=35&pause=1000&color=C3DF00E6&center=true&vCenter=true&width=435&lines=it's+me+Muhammed+Afnan)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&weight=900&size=35&duration=4990&pause=1000&color=0ADFAB&center=true&vCenter=true&width=435&lines=it's+me+Muhammed+Afnan)](https://git.io/typing-svg)
 <h3 align="center">Backend Developer | Making things work, where no one’s looking</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afnan0304&label=Profile%20views&color=0e75b6&style=flat" alt="afnan0304" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afnan0304" alt="afnan0304" /></a> </p>
 
+- 💬 Ask me about **Node js, Express js, MongoDB**
+  
 - 👯 I’m looking to collaborate on **Anything backend-focused that challenges logic and structure**
 
 - 🤝 I’m looking for help with **Express js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/afnan0304](https://github.com/afnan0304)
-
-- 💬 Ask me about **Node js, Express js, MongoDB**
 
 - 📫 reach me at **mhdafnan309@gmail.com**
 
