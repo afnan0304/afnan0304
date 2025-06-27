@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=it's+me+Muhammed+Afnan)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&weight=900&size=35&pause=1000&color=C3DF00E6&center=true&vCenter=true&width=435&lines=it's+me+Muhammed+Afnan)](https://git.io/typing-svg)
 <h3 align="center">Backend Developer | Making things work, where no one’s looking</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afnan0304&label=Profile%20views&color=0e75b6&style=flat" alt="afnan0304" /> </p>
