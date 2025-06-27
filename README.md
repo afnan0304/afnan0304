@@ -28,8 +28,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/afnan0304"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="afnan0304" /></a></p><br><br>
 
----
-[![](https://visitcount.itsvg.in/api?id=afnan0304&icon=0&color=12)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=afnan0304&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afnan0304&show_icons=true&locale=en" alt="afnan0304" /></p>
