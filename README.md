@@ -1,4 +1,4 @@
-<h1 align="center">it's me Muhammed Afnan</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=it's+me+Muhammed+Afnan)](https://git.io/typing-svg)
 <h3 align="center">Backend Developer | Making things work, where no one’s looking</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afnan0304&label=Profile%20views&color=0e75b6&style=flat" alt="afnan0304" /> </p>
