@@ -1,4 +1,4 @@
-<h1 align="center">it's me Muhammed Afnan</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=4990&pause=1000&color=B8F700&vCenter=true&width=435&lines=It's+me+Muhammed+Afnan)](https://git.io/typing-svg)
 <h3 align="center">Backend Developer | Making things work, where no one’s looking</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afnan0304&label=Profile%20views&color=0e75b6&style=flat" alt="afnan0304" /> </p>
