@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&weight=900&size=35&duration=4990&pause=1000&color=0ADFAB&center=true&vCenter=true&width=435&lines=it's+me+Muhammed+Afnan)](https://git.io/typing-svg)
+<h1 align="center">it's me Muhammed Afnan</h1>
 <h3 align="center">Backend Developer | Making things work, where no one’s looking</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afnan0304&label=Profile%20views&color=0e75b6&style=flat" alt="afnan0304" /> </p>
@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afnan0304" alt="afnan0304" /></a> </p>
 
 - 💬 Ask me about **Node js, Express js, MongoDB**
-  
+
 - 👯 I’m looking to collaborate on **Anything backend-focused that challenges logic and structure**
 
 - 🤝 I’m looking for help with **Express js**
@@ -19,7 +19,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  
+<a href="https://linkedin.com/in/afnan0304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afnan0304" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/30915902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="30915902" height="30" width="40" /></a>
+<a href="https://instagram.com/__14fn.an_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__14fn.an_" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/afnan0304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="afnan0304" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,8 +31,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/afnan0304"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="afnan0304" /></a></p><br><br>
 
-![](https://nirzak-streak-stats.vercel.app/?user=afnan0304&theme=cobalt&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=afnan0304&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afnan0304&show_icons=true&locale=en&layout=compact" alt="afnan0304" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afnan0304&show_icons=true&locale=en" alt="afnan0304" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afnan0304&" alt="afnan0304" /></p>
